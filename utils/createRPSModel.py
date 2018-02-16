@@ -5,7 +5,7 @@ from clarifai import rest
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import Image as ClImage
 
-clarifai_app = ClarifaiApp(api_key="YOUR_API_KEY_HERER")
+clarifai_app = ClarifaiApp(api_key="YOUR_API_KEY_HERE")
 
 # training images positve for Rock-Paper-Scissors
 # Rock
